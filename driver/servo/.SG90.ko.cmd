@@ -1,0 +1,1 @@
+cmd_/home/ps/work/linux_project/dianti/driver/servo/SG90.ko := arm-poky-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ps/work/linux_project/dianti/driver/servo/SG90.ko /home/ps/work/linux_project/dianti/driver/servo/SG90.o /home/ps/work/linux_project/dianti/driver/servo/SG90.mod.o
